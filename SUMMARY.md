@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [第一讲](chapter1.md)
 * [第二讲](di-er-jiang.md)
-* 3
+* [第3讲](di-3-jiang.md)
 * 4
 * 5
 * 6
