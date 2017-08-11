@@ -8,3 +8,6 @@ be better
 
 Intellj IDE的Markdown的插件明显的感觉有些卡顿啊!   
 速度才是王道啊！！！
+
+什么情况呢  
+感觉有些伤感啊
