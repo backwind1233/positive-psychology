@@ -5,3 +5,6 @@ This file file serves as your book's preface, a great place to describe your boo
 
 Have a nice day   
 be better 
+
+Intellj IDE的Markdown的插件明显的感觉有些卡顿啊!   
+速度才是王道啊！！！
