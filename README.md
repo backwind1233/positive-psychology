@@ -16,4 +16,4 @@ Intellj IDE的Markdown的插件明显的感觉有些卡顿啊!
 人生就是苦难重重
 
 
-地址：https://git.gitbook.com/guozhihao/positive-class.git
+地址：https://guozhihao.gitbooks.io/positive-psychology/content/
