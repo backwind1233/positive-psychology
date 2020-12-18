@@ -9,3 +9,9 @@ My Awesome Book
 
 地址：https://guozhihao.gitbooks.io/positive-psychology/content/
 
+
+
+master分支的内容基本忠实于字幕
+
+可能会有摘录的分支，选取重要的核心的内容
+
